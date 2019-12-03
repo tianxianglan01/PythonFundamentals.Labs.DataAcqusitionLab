@@ -5,12 +5,12 @@
 
 * Download and install [Postman](https://www.getpostman.com/).
 
-* Acquire a request token from (NOAA's Climate Data Web Service)[https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted]
+* Acquire a request token from [NOAA's Climate Data Web Service](https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted)
 
 * Using Postman, make a GET request to https://www.ncdc.noaa.gov/cdo-web/api/v2/locations/.
   Be sure to provide the token header.
 
-![](imgs/postman_noaa_get_locations.PNG)
+![postman_noaa_get_locations](imgs/postman_noaa_get_locations.png)
 
 * Once the response if fullfilled, the bottom pane should display the response. It should look something like the following:
 

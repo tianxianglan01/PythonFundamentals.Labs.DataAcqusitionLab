@@ -92,7 +92,7 @@ Example:
 {
     "metadata": {
         "resultset": {
-            "offset": 1000,
+            "offset": 1001,
             "count": 38859,
             "limit": 1000
         }
@@ -103,7 +103,7 @@ Example:
             "maxdate": "2019-11-16",
             "name": "Mersin, TU",
             "datacoverage": 0.9986,
-            "id": "CITY:TU000041"
+            "id": "CITY:TU000042"
         },
         ...
     ]
